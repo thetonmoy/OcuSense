@@ -1,8 +1,3 @@
----
-title: BH1750 (GY-30) — Standalone Test (Arduino Nano)
-
----
-
 # BH1750 Only
 
 This sketch reads **ambient light (lux)** from the BH1750 (GY-30) using I²C and prints the value to Serial Monitor.
